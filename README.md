@@ -239,3 +239,4 @@ s.union(t)
 s.intersection(t): возвращает пересечение множеств s и t
 s.difference(t): возвращает разность множеств s и t
 s.copy(): возвращает копию множества s
+![image](https://github.com/user-attachments/assets/383d2004-49f9-40b4-a2e3-73b0cc3236b1)
