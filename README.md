@@ -17,3 +17,10 @@
 ![image](https://github.com/user-attachments/assets/bcf2a512-891c-4f92-8f4a-81f9ecaf0f48)
 ![image](https://github.com/user-attachments/assets/f6a9df15-2659-47b7-b302-4a2aee3c396c)
 ![image](https://github.com/user-attachments/assets/b8b2b707-e889-4d81-9d7f-29551b33bbc6)
+4) Сортировка. ORDER BY
+![image](https://github.com/user-attachments/assets/43ac21be-371c-4078-94c5-f7b202966e68)
+![image](https://github.com/user-attachments/assets/a4b01259-2db8-4a97-91b1-9a084c26a91c)
+![image](https://github.com/user-attachments/assets/85514110-c252-4494-b63a-a11233c4ca0c)
+![image](https://github.com/user-attachments/assets/73391fc7-339d-4fe6-9be8-037584fd2e02)
+![image](https://github.com/user-attachments/assets/ecaf5db0-8240-4ec5-a0f2-86fcc0086e82)
+   
