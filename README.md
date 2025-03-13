@@ -10,4 +10,10 @@
 ![image](https://github.com/user-attachments/assets/fa2a3f80-477b-43b6-804a-1e052deeb3ef)
 ![image](https://github.com/user-attachments/assets/ad895905-b27b-44c7-9b85-ba227512908a)
 ![image](https://github.com/user-attachments/assets/ba6656cc-9805-4ac6-905b-230626ed3c01)
- 
+3) SQL комбинирование условий AND и OR
+![image](https://github.com/user-attachments/assets/a97efbf2-d956-41c5-8925-05b7f7c4c4c0)
+![image](https://github.com/user-attachments/assets/d6e90515-51d1-4dfd-aa47-df528ec6a9da)
+![image](https://github.com/user-attachments/assets/b3871f8b-1ecd-47f9-bb5e-e8dfefd0a4c2)
+![image](https://github.com/user-attachments/assets/bcf2a512-891c-4f92-8f4a-81f9ecaf0f48)
+![image](https://github.com/user-attachments/assets/f6a9df15-2659-47b7-b302-4a2aee3c396c)
+![image](https://github.com/user-attachments/assets/b8b2b707-e889-4d81-9d7f-29551b33bbc6)
