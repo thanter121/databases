@@ -29,3 +29,11 @@
 6) Обновление данных. Команда UPDATE     
 ![image](https://github.com/user-attachments/assets/26f8475e-554b-43cd-b297-caa913837289)
 ![image](https://github.com/user-attachments/assets/3c17f8f5-f970-4c87-ba2d-2e5031e0f09f)
+7) Множества. SET
+![image](https://github.com/user-attachments/assets/981ac1d4-bf9f-4ace-8551-0e7f92348303)
+![image](https://github.com/user-attachments/assets/4f619528-91e4-4f10-abd3-ff8133fdacbb)
+![image](https://github.com/user-attachments/assets/2dbd6f18-f251-4fbe-9af2-4bbff4ce0c31)
+![image](https://github.com/user-attachments/assets/83e67886-7663-4b02-8763-8d599b09961e)
+![image](https://github.com/user-attachments/assets/da539a1f-bd3c-4253-9da1-fb3c61f91142)
+![image](https://github.com/user-attachments/assets/09249717-166f-4439-9bae-9d4ac9af068b)
+   
