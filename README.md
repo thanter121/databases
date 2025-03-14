@@ -26,4 +26,6 @@
 5) Получение диапазона строк. LIMIT и OFFSET
 ![image](https://github.com/user-attachments/assets/d8317443-26ec-4597-9218-b74d4a8d5479)
 ![image](https://github.com/user-attachments/assets/28754167-b07c-46e1-893a-c1bf386654b6)
-     
+6) Обновление данных. Команда UPDATE     
+![image](https://github.com/user-attachments/assets/26f8475e-554b-43cd-b297-caa913837289)
+![image](https://github.com/user-attachments/assets/3c17f8f5-f970-4c87-ba2d-2e5031e0f09f)
