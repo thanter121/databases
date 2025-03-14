@@ -23,4 +23,7 @@
 ![image](https://github.com/user-attachments/assets/85514110-c252-4494-b63a-a11233c4ca0c)
 ![image](https://github.com/user-attachments/assets/73391fc7-339d-4fe6-9be8-037584fd2e02)
 ![image](https://github.com/user-attachments/assets/ecaf5db0-8240-4ec5-a0f2-86fcc0086e82)
-   
+5) Получение диапазона строк. LIMIT и OFFSET
+![image](https://github.com/user-attachments/assets/d8317443-26ec-4597-9218-b74d4a8d5479)
+![image](https://github.com/user-attachments/assets/28754167-b07c-46e1-893a-c1bf386654b6)
+     
