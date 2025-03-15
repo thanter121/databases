@@ -42,4 +42,16 @@
 ![Снимок экрана (3)](https://github.com/user-attachments/assets/8867210c-5bd9-4179-b8ed-9a1140d5e945)
 9) Удаление данных. Команда DELETE
 ![Снимок экрана (4)](https://github.com/user-attachments/assets/1a7c7a94-de26-4d69-b645-6b1ef797d9a7)
-    
+10)  INSERT — добавить строки в таблицу   
+![Снимок экрана (5)](https://github.com/user-attachments/assets/7a99ae01-1b53-40c6-b2eb-d1a5005beee5)
+![Снимок экрана (6)](https://github.com/user-attachments/assets/3afd70f4-9204-44fb-b108-acde4c882f92)
+![Снимок экрана (7)](https://github.com/user-attachments/assets/d7807f28-ed0b-4149-bc8a-476b0d9f058a)
+![Снимок экрана (8)](https://github.com/user-attachments/assets/5ae65832-c9a5-428d-9a3a-6f69878a9892)
+![Снимок экрана (9)](https://github.com/user-attachments/assets/78a9bf89-6f99-4dac-9273-6d8db52fad50)
+![Снимок экрана (10)](https://github.com/user-attachments/assets/a4365245-b31b-48fa-b481-d9ceb69cf3f3)
+![Снимок экрана (11)](https://github.com/user-attachments/assets/be4f70fa-6c6e-44f1-916e-1f88d7cfcfc8)
+![Снимок экрана (12)](https://github.com/user-attachments/assets/6a0a4160-9a0d-4d96-ac18-16161ee0cdbf)
+![Снимок экрана (13)](https://github.com/user-attachments/assets/013b650f-9945-4c74-b322-3f29c6bcd263)
+![Снимок экрана (14)](https://github.com/user-attachments/assets/d3354390-3663-42b0-a910-985bdf09a10c)
+![Снимок экрана (15)](https://github.com/user-attachments/assets/ee3044db-93dd-4ce8-b049-b04b5ae265bc)
+![Снимок экрана (15)](https://github.com/user-attachments/assets/658fb1f9-3104-4999-b3a0-a38a5fa443c9)
