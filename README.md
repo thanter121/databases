@@ -36,4 +36,7 @@
 ![image](https://github.com/user-attachments/assets/83e67886-7663-4b02-8763-8d599b09961e)
 ![image](https://github.com/user-attachments/assets/da539a1f-bd3c-4253-9da1-fb3c61f91142)
 ![image](https://github.com/user-attachments/assets/09249717-166f-4439-9bae-9d4ac9af068b)
-   
+8) TRUNCATE. усечение   
+![Снимок экрана (1)](https://github.com/user-attachments/assets/40077e62-fca7-4449-93ed-1bd20e3b4265)
+![Снимок экрана (2)](https://github.com/user-attachments/assets/a680ed21-eb3e-43ca-b4d1-79697aca19be)
+![Снимок экрана (3)](https://github.com/user-attachments/assets/8867210c-5bd9-4179-b8ed-9a1140d5e945)
