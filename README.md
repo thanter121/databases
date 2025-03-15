@@ -54,4 +54,3 @@
 ![Снимок экрана (13)](https://github.com/user-attachments/assets/013b650f-9945-4c74-b322-3f29c6bcd263)
 ![Снимок экрана (14)](https://github.com/user-attachments/assets/d3354390-3663-42b0-a910-985bdf09a10c)
 ![Снимок экрана (15)](https://github.com/user-attachments/assets/ee3044db-93dd-4ce8-b049-b04b5ae265bc)
-![Снимок экрана (15)](https://github.com/user-attachments/assets/658fb1f9-3104-4999-b3a0-a38a5fa443c9)
