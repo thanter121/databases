@@ -40,4 +40,3 @@
 ![Снимок экрана (1)](https://github.com/user-attachments/assets/40077e62-fca7-4449-93ed-1bd20e3b4265)
 ![Снимок экрана (2)](https://github.com/user-attachments/assets/a680ed21-eb3e-43ca-b4d1-79697aca19be)
 ![Снимок экрана (3)](https://github.com/user-attachments/assets/8867210c-5bd9-4179-b8ed-9a1140d5e945)
-![Снимок экрана (1)](https://github.com/user-attachments/assets/e4a3c3be-95f8-42f6-bf61-37bdcdd1dd5d)
